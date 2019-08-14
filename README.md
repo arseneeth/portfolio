@@ -32,4 +32,4 @@ My work in the project:
 
 Solidity smart contracts for Tron accelerator award(won 30k$): https://github.com/arsenyjin/BlockLords
 
-Loom port(WIP): https://github.com/arsenyjin/blocklords-loom
+Blocklords 2.0.(WIP): https://github.com/blocklords/
