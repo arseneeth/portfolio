@@ -9,7 +9,9 @@ Link: http://bitly.ws/4MdW
 A pay-as-you-go streaming platform, won all prizes at #ethcapetown @ETHGlobal
 
 Devpost: https://devpost.com/software/dtok-amfc4e
+
 Hackathon repo: https://github.com/ethcapetown/dTok-burnerwallet
+
 Connext repo: https://github.com/arsenyjin/dTok-dai-card
 
 ### Status Teller Network
@@ -17,9 +19,13 @@ Connext repo: https://github.com/arsenyjin/dTok-dai-card
 Contributing to the open source fiat-to-crypto exchange dApp by @Status (currently going through security audit)
 
 link: https://github.com/status-im/status-teller-network/
+
 pull requests: 
+
       https://github.com/status-im/status-teller-network/pull/295/files
+      
       https://github.com/status-im/status-teller-network/pull/324/files
+      
       https://github.com/status-im/status-teller-network/pull/337/files
 
 ### Blocklords
