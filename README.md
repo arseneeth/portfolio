@@ -1,6 +1,6 @@
 # mini-portfolio
 
-### Hackathon Project Portfolio
+### Hackathon Projects Portfolio
 
 Link: http://bitly.ws/4MdW
 
