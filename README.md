@@ -28,6 +28,14 @@ pull requests:
       
       https://github.com/status-im/status-teller-network/pull/337/files
 
+
+### TokenSwap
+
+Simple PoC token swapping system built on Aragon OS and based on bonding curve formula by Bancor.
+
+GitHub https://github.com/arsenyjin/tokenswap
+
+
 ### Blocklords
 
 Blockchain global strategy game, won Neo blockchain award and Tron accelerator award.
