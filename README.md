@@ -1,4 +1,6 @@
-# mini-portfolio
+# Portfolio
+
+This portfolio is a collection of open-source projects that I had a chance to work on. This is a living document and it's being update as I participate in more projects. The mai goal is to keep is as an up-to-date "proof of knowledge and skills".
 
 ### Hackathon Projects Portfolio
 
@@ -11,8 +13,6 @@ A pay-as-you-go streaming platform, won all prizes at #ethcapetown @ETHGlobal
 Devpost: https://devpost.com/software/dtok-amfc4e
 
 Hackathon repo: https://github.com/ethcapetown/dTok-burnerwallet
-
-Connext repo: https://github.com/arsenyjin/dTok-dai-card
 
 ### Status Teller Network
 
@@ -31,7 +31,7 @@ pull requests:
 
 ### TokenSwap
 
-Simple PoC token swapping system built on Aragon OS and based on bonding curve formula by Bancor.
+PoC token swapping system built on Aragon OS and based on bonding curve formula by Bancor.
 
 GitHub https://github.com/arsenyjin/tokenswap
 
