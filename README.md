@@ -1,6 +1,6 @@
 # Portfolio
 
-This portfolio is a collection of open-source projects that I had a chance to work on. This is a living document and it's being update as I participate in more projects. The mai goal is to keep is as an up-to-date "proof of knowledge and skills".
+This portfolio is a collection of open-source projects that I had a chance to work on. This is a living document and it's being updated as I participate in more projects. The mai goal is to keep is as an up-to-date "proof of knowledge and skills".
 
 ### Hackathon Projects Portfolio
 
