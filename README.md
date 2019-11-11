@@ -14,6 +14,15 @@ Devpost: https://devpost.com/software/dtok-amfc4e
 
 Hackathon repo: https://github.com/ethcapetown/dTok-burnerwallet
 
+
+### Supercharger Network
+
+A new blockchain protocol built in Rust and Substrate, enabling meta-transactions and removing the cost of fees from the end user. Built at #ETHBerlinzwei
+
+Devpost: https://devpost.com/software/supercharger-network
+
+Medium: https://medium.com/@dothereum/ethberlin-zwei-spot-on-the-fee-less-token-factory-on-parity-substrate-196f2d837164?sk=7a55c379fb2a3402b794a16117435ebe
+
 ### Status Teller Network
 
 Contributing to the open source fiat-to-crypto exchange dApp by @Status (currently going through security audit)
