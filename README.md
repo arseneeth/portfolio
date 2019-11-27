@@ -53,8 +53,6 @@ My work in the project:
 
 Solidity smart contracts for Tron accelerator award(won 30k$): https://github.com/arsenyjin/BlockLords (blocklords.io currently running on tron mainnet)
 
-Blocklords 2.0.(WIP): https://github.com/blocklords/
-
 ### Swops 
 
 A concept of automated fiat-to-crypto exchange protocol on the Ethereum blockchain. 
