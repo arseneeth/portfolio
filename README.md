@@ -25,7 +25,7 @@ Medium: https://medium.com/@dothereum/ethberlin-zwei-spot-on-the-fee-less-token-
 
 ### Status Teller Network
 
-Contributing to the open source fiat-to-crypto exchange dApp by @Status (currently going through security audit)
+Contributing to the open source fiat-to-crypto exchange dApp by @Status
 
 link: https://github.com/status-im/status-teller-network/
 
